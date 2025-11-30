@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "711860102224",
-    "project_id": "modul-12-e205f",
-    "storage_bucket": "modul-12-e205f.firebasestorage.app"
+    "project_number": "335715106254",
+    "project_id": "modul12-26a1a",
+    "storage_bucket": "modul12-26a1a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:711860102224:android:1469cd501e04a234a05d55",
+        "mobilesdk_app_id": "1:335715106254:android:a49bcf65357abe8e167f9f",
         "android_client_info": {
           "package_name": "com.example.tpmod12"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBCO8d5NSdeIhvcFCXw_gFOh5Hm0ciOQW8"
+          "current_key": "AIzaSyBGPI3vnxMLiDUrmFsfjj8nYFjy_Ap2ggA"
         }
       ],
       "services": {
